@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">HotelBooking</string>
+    <string name="find_deal_for_any_season_from_copy_ncountry_home_to_city_flates">Find deal for any season from copy\ncountry home to city flates</string>
+    <string name="stylish_hotels">Stylish hotels</string>
+    <string name="a_selection_of_hotels_to_stay_verified_for_nquality_and_design">A Selection of hotels to stay verified for\nquality and design</string>
+    <string name="save_your_payment_details_for_secure_nbooking_an_fast_reservation">Save your payment details for secure\nbooking an fast reservation</string>
+    <string name="get_started">Get Started</string>
+    <string name="best_deals">Best Deals</string>
+    <string name="fast_booking">Fast Booking</string>
 </resources>
