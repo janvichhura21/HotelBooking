@@ -1,6 +1,7 @@
 package com.example.hotelbooking.splashScreen
 
 import android.content.Context
+import android.content.Intent
 import android.content.SharedPreferences
 import android.graphics.Color
 import android.os.Build
@@ -15,6 +16,9 @@ import androidx.databinding.DataBindingUtil
 import androidx.viewpager.widget.ViewPager
 import com.example.hotelbooking.R
 import com.example.hotelbooking.databinding.ActivitySplashBinding
+import com.example.hotelbooking.login.LoginActivity
+import com.example.hotelbooking.login.LoginFragment
+import com.example.hotelbooking.model.replaceFragment
 
 class SplashActivity : AppCompatActivity() {
     lateinit var binding: ActivitySplashBinding
@@ -62,6 +66,13 @@ class SplashActivity : AppCompatActivity() {
 
         })
         setDots(0)
+        onclickBtn()
+    }
+
+    private fun onclickBtn() {
+     binding.startBtn.setOnClickListener {
+         startActivity(Intent(this,LoginActivity::class.java))
+     }
     }
 
     private fun isFirstTimeAppStart():Boolean{
