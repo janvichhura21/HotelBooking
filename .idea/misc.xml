@@ -3,19 +3,47 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/drawable-v24/ic_profile.xml" value="0.2385" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/drawable-v24/thumb.xml" value="0.152" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/drawable-v24/track.xml" value="0.176" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/drawable/bg1_btn.xml" value="0.2385" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/drawable/bg2_btn.xml" value="0.2385" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/drawable/bg_btn.xml" value="0.2385" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/drawable/bg_search.xml" value="0.2385" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.2385" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/drawable/tab_color_selector.xml" value="0.2385" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/activity_my_bookings.xml" value="0.2" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/activity_room.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/activity_room_detail.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/best_deals_cart.xml" value="0.253125" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/finishhes_cart.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_begin.xml" value="0.2" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_booking.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_bookings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_explore.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_favorite.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_finished.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_my_bookings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_room.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_room_details.xml" value="0.176" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_search.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_sign_in.xml" value="0.2" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/fragment_upcoming.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/latest_search_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/my_bookings_cart.xml" value="0.2" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/popular_countries_cart.xml" value="0.253125" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/room_cart.xml" value="0.2076923076923077" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/slider_1.xml" value="0.2" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/slider_2.xml" value="0.2" />
         <entry key="..\:/Users/HotelBooking2/app/src/main/res/layout/slider_3.xml" value="0.136" />
+        <entry key="..\:/Users/HotelBooking2/app/src/main/res/menu/bottom_menu.xml" value="0.19074074074074074" />
       </map>
     </option>
   </component>
