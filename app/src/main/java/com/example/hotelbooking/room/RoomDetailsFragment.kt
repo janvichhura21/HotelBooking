@@ -6,6 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
+import androidx.recyclerview.widget.LinearSnapHelper
+import androidx.recyclerview.widget.RecyclerView
 import com.example.hotelbooking.R
 import com.example.hotelbooking.databinding.FragmentRoomDetailsBinding
 import com.google.android.material.bottomsheet.BottomSheetBehavior
@@ -24,6 +26,11 @@ class RoomDetailsFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         bottomsheet()
+        animationimage()
+    }
+
+    private fun animationimage() {
+
     }
 
     private fun bottomsheet() {
