@@ -8,6 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.animation.AnimationUtils
 import androidx.databinding.DataBindingUtil
+import com.example.hotelbooking.MainActivity
 import com.example.hotelbooking.R
 import com.example.hotelbooking.databinding.FragmentBeginBinding
 import com.example.hotelbooking.homeTab.HomeActivity
@@ -42,7 +43,7 @@ class BeginFragment : Fragment() {
 
     private fun skipBtn() {
         binding.skipBtn.setOnClickListener {
-           startActivity(Intent(requireContext(),HomeActivity::class.java))
+           startActivity(Intent(requireContext(),MainActivity::class.java))
         }
     }
 

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SearchFragment">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:text="Edit"
+            android:layout_alignParentEnd="true"/>
+
+        <TextView
+            android:id="@+id/fav"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Favourites"
+            android:textStyle="bold"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="30dp"
+            android:textColor="@color/color_primary"
+            android:textSize="25sp"
+            android:fontFamily="@font/warner"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/favRv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/fav"
+            tools:listitem="@layout/best_deals_cart"/>
+
+
+    </RelativeLayout>
+</layout>
